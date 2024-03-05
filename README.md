@@ -1,9 +1,9 @@
 ### Hi there 👋  
 ![Minsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsuk-jang&show_icons=true&theme=dracula) <br>
-![Static Badge](https://img.shields.io/badge/Medium-Story?style=flat&logo=Medium&logoColor=black&color=white&link=https%3A%2F%2Fmedium.com%2F%40jms8732)
-
-
-
+[![Static Badge](https://img.shields.io/badge/Medium-Story?style=flat&logo=Medium&logoColor=black&color=white&link=https://medium.com/@/jms8732)](https://medium.com/@jms8732)
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EC%9E%A5-a86034211/)](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EC%9E%A5-a86034211/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](jms8732@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so/jangminsuk/9d73255286a441e5923cc21b9b27981c)
 
 - 안녕하세요! 3년 차 AOS 개발자 장민석입니다. 🖐
 - 앱 개발부터 출시, 운영까지 전체 프로세스의 경험이 있습니다.
