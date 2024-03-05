@@ -1,6 +1,8 @@
 ### Hi there 👋  
 ![Minsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsuk-jang&show_icons=true&theme=dracula) <br>
-![https://medium.com/@jms8732](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Medium-Story?style=flat&logo=Medium&logoColor=black&color=white&link=https%3A%2F%2Fmedium.com%2F%40jms8732)
+
+
 
 
 - 안녕하세요! 3년 차 AOS 개발자 장민석입니다. 🖐
