@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Minsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsuk-jang&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsuk-jang&layout=compact&theme=dracula)
+
+
 <!--
 **minsuk-jang/minsuk-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
